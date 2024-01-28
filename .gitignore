@@ -10,3 +10,6 @@ runs/
 yolo*
 zidane.jpg
 .idea/
+calibration_*.npy
+tmp.zip
+datasets/
