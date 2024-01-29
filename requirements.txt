@@ -1,3 +1,4 @@
 ipykernel==6.29.0
 ultralytics==8.1.6
 jupyter==1.0.0
+pycocotools>=2.0.6
