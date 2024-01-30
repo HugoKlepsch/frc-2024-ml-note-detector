@@ -2,3 +2,11 @@ ipykernel==6.29.0
 ultralytics==8.1.6
 jupyter==1.0.0
 pycocotools>=2.0.6
+tensorflow==2.15.0.post1
+onnx==1.15.0
+onnx2tf>=1.15.4,<=1.17.5
+sng4onnx>=1.0.1
+onnxsim>=0.4.33
+onnx_graphsurgeon>=0.3.26
+onnxruntime-gpu==1.16.3
+tflite_support==0.4.4
