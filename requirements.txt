@@ -2,7 +2,7 @@ ipykernel==6.29.0
 ultralytics==8.1.6
 jupyter==1.0.0
 pycocotools>=2.0.6
-tensorflow==2.15.0.post1
+tensorflow==2.13.1
 onnx==1.15.0
 onnx2tf>=1.15.4,<=1.17.5
 sng4onnx>=1.0.1
