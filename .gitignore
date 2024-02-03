@@ -14,3 +14,7 @@ calibration_*.npy
 tmp.zip
 datasets/
 bus.jpg
+
+*.pt
+*.onnx
+best_bobot_saved_model
